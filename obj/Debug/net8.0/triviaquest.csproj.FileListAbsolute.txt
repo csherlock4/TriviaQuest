@@ -1,0 +1,14 @@
+H:\game dev\triviaquest\bin\Debug\net8.0\triviaquest.exe
+H:\game dev\triviaquest\bin\Debug\net8.0\triviaquest.deps.json
+H:\game dev\triviaquest\bin\Debug\net8.0\triviaquest.runtimeconfig.json
+H:\game dev\triviaquest\bin\Debug\net8.0\triviaquest.dll
+H:\game dev\triviaquest\bin\Debug\net8.0\triviaquest.pdb
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.GeneratedMSBuildEditorConfig.editorconfig
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.AssemblyInfoInputs.cache
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.AssemblyInfo.cs
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.csproj.CoreCompileInputs.cache
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.dll
+H:\game dev\triviaquest\obj\Debug\net8.0\refint\triviaquest.dll
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.pdb
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.genruntimeconfig.cache
+H:\game dev\triviaquest\obj\Debug\net8.0\ref\triviaquest.dll
