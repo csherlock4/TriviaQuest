@@ -12,3 +12,4 @@ H:\game dev\triviaquest\obj\Debug\net8.0\refint\triviaquest.dll
 H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.pdb
 H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.genruntimeconfig.cache
 H:\game dev\triviaquest\obj\Debug\net8.0\ref\triviaquest.dll
+H:\game dev\triviaquest\obj\Debug\net8.0\triviaquest.sourcelink.json
