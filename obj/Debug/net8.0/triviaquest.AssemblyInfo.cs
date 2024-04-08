@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("triviaquest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1060086be3f2b448e315577e74555fe5f629b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ff68af6a681d38237c2ef5f335a1d5c86ba474e")]
 [assembly: System.Reflection.AssemblyProductAttribute("triviaquest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("triviaquest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
