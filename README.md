@@ -1,9 +1,9 @@
 # 🌟 Trivia Quest
-Welcome to **Trivia Quest**v Put your knowledge to the test!
+Welcome to **Trivia Quest** Put your knowledge to the test!
 
 
 ## 📜 Description
-**C# Adventure** **Trivia Quest** is a text-based adventure, where you square up against the universes masters of knowledge.
+**C# Adventure** **Trivia Quest** is a text-based adventure, where you square up against the Universe's masters of knowledge.
 
 
 ## 🎮 How to Play
