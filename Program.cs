@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+* File Name: Program.cs
+* Author: Cassandra Sherlock and Sam Clark
+* Date Created: March 27, 2024
+* Last Modified: April 10, 2024
+* Description : A C# console-based game, where mystical creatures test the players trivia knowledge. 
+*/
+using System;
 using System.Collections.Generic;
 
 public class Question
